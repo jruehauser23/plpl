@@ -645,7 +645,7 @@ a,button {
 }
 
 .o-lines__bg {
-    background-image: url(../img/line_bg.svg)
+    background-image: url(../images/line_bg.svg)
 }
 
 table {
@@ -861,7 +861,7 @@ iframe {
     display: flex;
     width: 20px;
     height: 20px;
-    background-image: url(../img/svg/more.svg);
+    background-image: url(../images/svg/more.svg);
     background-repeat: none;
     background-size: cover;
     background-position: center;
@@ -1028,7 +1028,7 @@ iframe {
 }
 
 .c-footer__accordion.lazyloaded::after {
-    background-image: url(../img/footer/down-chevron.svg)
+    background-image: url(../images/footer/down-chevron.svg)
 }
 
 .c-footer__accordion::after {
@@ -1152,9 +1152,9 @@ iframe {
     }
 
     .c-main {
-        background-image: url("../img/bg-main.png");
-        background-image: -webkit-image-set(url("../img/bg-main.png") 1x, url("../img/bg-main.png") 2x);
-        background-image: image-set(url("../img/bg-main.png") 1x, url("../img/bg-main.png") 2x);
+        background-image: url("../images/bg-main.png");
+        background-image: -webkit-image-set(url("../images/bg-main.png") 1x, url("../images/bg-main.png") 2x);
+        background-image: image-set(url("../images/bg-main.png") 1x, url("../images/bg-main.png") 2x);
         background-repeat: repeat-y;
         background-size: 100%
     }
